@@ -1,0 +1,15 @@
+.content1 {
+    box-sizing: border-box;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: antiquewhite;
+}
+
+.content2 {
+    box-sizing: border-box;
+    width: 300px;
+    margin: 50px auto;
+    padding: 30px 30px;
+    background-color: rgb(232, 164, 74);
+}

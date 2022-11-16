@@ -1,0 +1,10 @@
+.content {
+    height: 300px;
+    width: 300px;
+    margin: 5px auto;
+    padding: 10px 10px;
+    background-color: antiquewhite;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+}

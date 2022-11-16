@@ -1,0 +1,41 @@
+.container {
+    width: 820px;
+    margin: auto;
+    padding-top: 35px;
+}
+
+.left {
+    box-sizing: border-box;
+    margin-right: 10px;
+    padding: 10px 10px;
+    float: left;
+    width: 200px;
+    height: 500px;
+    background-color: lightpink;
+}
+
+.center {
+    box-sizing: border-box;
+    padding: 10px 10px;
+    float: left;
+    width: 400px;
+    height: 500px;
+    background-color: lightgray;
+}
+
+img {
+    float: left;
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.right {
+    box-sizing: border-box;
+    padding: 10px 10px;
+    margin-left: 10px;
+    float: left;
+    width: 200px;
+    height: 500px;
+    background-color: lightgreen;
+}

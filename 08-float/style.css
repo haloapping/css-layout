@@ -1,0 +1,26 @@
+.container {
+    width: 300px;
+    margin: auto;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.square1 {
+    background-color: lightcoral;
+    float: left;
+}
+
+.square2 {
+    background-color: lightblue;
+    float: left;
+}
+
+.square3 {
+    background-color: lightgreen;
+    float: left;
+}

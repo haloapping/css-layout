@@ -1,0 +1,16 @@
+.container {
+    width: 400px;
+    height: 160px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.square {
+    margin: 5px 5px;
+    width: 70px;
+    height: 70px;
+    background-color: antiquewhite;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+}
